@@ -1,0 +1,16 @@
+{
+  "name": "advent-of-code",
+  "description": "Advent of Code Solutions",
+  "repository": "https://github.com/ellellie/advent-of-code",
+  "author": "Elizabeth Urquhart <me@ell.gay>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "ramda": "^0.28.0"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.191",
+    "@types/node": "^18.11.9",
+    "nodemon": "^2.0.20"
+  }
+}
