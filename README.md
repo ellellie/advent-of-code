@@ -5,6 +5,7 @@ Please note that the inputs are in the `inputs/` folder labelled as `day-N-2022.
 ```
       --------Part 1--------   --------Part 2--------
 Day       Time   Rank  Score       Time   Rank  Score
+  7   00:10:11     80     21   00:22:55    568      0
   6   00:02:53    462      0   00:03:41    456      0
   5   00:03:58     12     89   00:04:25      9     92
   4   00:03:50    707      0   00:04:13    242      0
